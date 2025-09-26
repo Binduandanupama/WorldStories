@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WorldStories",
+    "description": "",
+    "home_page_url": "https://samudrachronicles.com",
+    "feed_url": "https://samudrachronicles.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Binduandanupama"
+    },
+    "items": [
+    ]
+}
